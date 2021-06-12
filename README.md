@@ -1,4 +1,4 @@
-# bash 
+# shell
 Se tiene un archivo separado por comas con registros de tarjetas de crédito (Archivos_Tarjetas_de_crédito_100_CC_Records.csv):
 
 En este link se puede ver de manera mas gráfica el contenido del archivo: Su script recibirá 2 parámetros: 
